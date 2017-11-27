@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: guestonline\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-12 21:14+0100\n"
+"PO-Revision-Date: 2016-04-12 21:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: fr_RE\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: fr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: form_page.php:6
+msgid "Already Guestonline client ?"
+msgstr "Déjà client Guestonline ?"
+
+#: form_page.php:12
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: form_page.php:14
+msgid "Restaurant name"
+msgstr "Nom du restaurant"
+
+#: form_page.php:18
+msgid "address"
+msgstr "Adresse"
+
+#: form_page.php:30
+msgid "Time zone"
+msgstr "Fuseau horaire"
+
+#: form_page.php:34
+msgid "Country code"
+msgstr "Code pays"
+
+#: form_page.php:38
+msgid "Phone"
+msgstr "Téléphone"
+
+#: form_page.php:42
+msgid "Capacity"
+msgstr "Capacité"
+
+#: form_page.php:46
+msgid "Openings"
+msgstr "Ouvertures"
+
+#: form_page.php:50
+msgid "Monday"
+msgstr "Lundi"
+
+#: form_page.php:51
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: form_page.php:52
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: form_page.php:53
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: form_page.php:54
+msgid "Friday"
+msgstr "Vendredi"
+
+#: form_page.php:55
+msgid "Saturday"
+msgstr "Samedi"
+
+#: form_page.php:56
+msgid "Sunday"
+msgstr "DImanche"
+
+#: form_page.php:59
+msgid "lunch openings"
+msgstr "Ouvertures du midi"
+
+#: form_page.php:70
+msgid "dinner openings"
+msgstr "Ouvertures du soir"
+
+#: form_page.php:85
+msgid "User information"
+msgstr "Information utilisateur"
+
+#: form_page.php:87
+msgid "Email"
+msgstr "Email"
+
+#: form_page.php:91
+msgid "Lastname"
+msgstr "Nom"
+
+#: form_page.php:95
+msgid "Firstname"
+msgstr "Prénom"
+
+#: form_page.php:102 form_page.php:105 restaurant_info_page.php:28
+#: restaurant_info_page.php:31
+msgid "What is Guestonline ?"
+msgstr "Qu'est ce que Guestonline ?"
+
+#: form_page.php:103 form_page.php:106 restaurant_info_page.php:29
+#: restaurant_info_page.php:32
+msgid "Guestonline FAQ"
+msgstr "FAQ Guestonline"
+
+#: form_page.php:110
+msgid "Initialize widget"
+msgstr "Créer mon module"
+
+#: header.php:6
+msgid "Welcome to guestonline"
+msgstr "Bienvenue sur Guestonline"
+
+#: header.php:7
+msgid "To use Guestonline booking widget, some configuration is required"
+msgstr ""
+"Pour utiliser le widget de réservation Guestonline, quelques renseignements "
+"sont requis"
+
+#: instabook.php:26
+msgid "Hi there!  I'm just a plugin, not much I can do when called directly."
+msgstr ""
+
+#: referal_form.php:4
+msgid ""
+"If you already have a Guestonline account, please fill the form below to "
+"activate your Guestonline widget"
+msgstr ""
+"Si vous avez déjà un compte Guestonline, veuillez remplir le formulaire ci-"
+"dessous pour activer votre plugin"
+
+#: referal_form.php:9
+msgid "Referal Key"
+msgstr "Referal Key"
+
+#: referal_form.php:13
+msgid "Guestonline Token"
+msgstr "Token Guestonline"
+
+#: referal_form.php:25
+msgid "Where to find your referal key and your Guestonline Token"
+msgstr "Où trouver votre referal key et votre token Guestonline"
+
+#: referal_form.php:26
+msgid ""
+"- Your referal key and your guestonline token are available in the module "
+"section of your Guestonline backoffice"
+msgstr ""
+"Votre referal key et votre token guestonline sont disponibles dans la "
+"section module de votre back-office Guestonline."
+
+#: referal_form.php:27
+msgid ""
+"- You can have more information about how to activate your plugin in our "
+msgstr ""
+"Vous pouvez avoir plus d'informations sur comment activer votre plugin sur "
+"notre "
+
+#: restaurant_info_page.php:3
+msgid "Welcome to Guestonline"
+msgstr "Bienvenue sur Guestonline"
+
+#: restaurant_info_page.php:5
+msgid "Congratulations, Guestonline booking widget is up and running."
+msgstr ""
+"Félicitations, Votre widget de réservation Guestonline est prêt à être "
+"utilisé."
+
+#: restaurant_info_page.php:6
+msgid "here is how it looks like"
+msgstr "Voici à quoi il ressemble"
+
+#: restaurant_info_page.php:7
+msgid ""
+"Restaurant settings now need to be done in your Guestonline back-office."
+msgstr ""
+"La configuration du restaurant doit être faite directement sur Guestonline"
+
+#: restaurant_info_page.php:12
+msgid ""
+"You'll find ready-to-use embedded widget in the Widget section of your "
+"Wordpress website."
+msgstr ""
+"Vous trouverez votre widget Guestonline, prêt à être utilisé, dans la "
+"section widget de votre site wordpress."
+
+#: restaurant_info_page.php:13
+msgid ""
+"or you can use the shortcodes to add your Guestonline module in any page."
+msgstr ""
+"ou vous pouvez utiliser les 'shortcode' pour ajouter votre module "
+"Guestonline sur n'importe quelle page ou article."
+
+#: restaurant_info_page.php:14
+msgid ""
+" - paste <b>[guestonline_iframe]</b> in any page or post to add the iframe"
+msgstr ""
+"collez <b>[guestonline_iframe]</b> dans n'importe quelle page ou article "
+"pour ajouter l'iframe module."
+
+#: restaurant_info_page.php:15
+msgid ""
+" - paste <b>[guestonline_button title='YOUR_BUTTON_NAME']</b> in any page or "
+"post to add the button"
+msgstr ""
+"collez <b>[guestonline_button title='YOUR_BUTTON_NAME']</b> dans n'importe "
+"quelle page ou article pour ajouter le bouton du module."
+
+#: restaurant_info_page.php:16
+msgid "Still, you can use this URL:"
+msgstr "Vous pouvez aussi utiliser cette url :"
+
+#: restaurant_info_page.php:17
+msgid ""
+"Want a cool widget integration ? Add this Facebook'Call To Action booking URL"
+msgstr ""
+"Vous voulez une intégration sympa ? Ajouter cette url pour 'Facebook'Call To "
+"Action' "
+
+#: restaurant_info_page.php:35
+msgid "Connect to Guestonline"
+msgstr "Connectez vous à Guestonline"
+
+#: restaurant_info_page.php:38
+msgid ""
+"You will discover a complete, powerfull, free booking engine, and in the "
+"paying services area :"
+msgstr ""
+"Vous allez découvrir un outil complet, puissant et gratuit, de réservation "
+"en ligne, et dans la partie payante :"
+
+#: restaurant_info_page.php:40
+msgid ""
+"advanced settings (booking auto-validation, max seats limitations, mutiple "
+"services settings)"
+msgstr ""
+"Configuration avancée (auto-validation des réservations, limitation des "
+"places disponibles, configuration des services multiples) "
+
+#: restaurant_info_page.php:41
+msgid "a professional reservation diary for restaurateurs"
+msgstr "Un agenda professionnel pour les restaurateurs"
+
+#: restaurant_info_page.php:42
+msgid "a private customer database solution"
+msgstr "Une base de données privée de vos clients"
+
+#: restaurant_info_page.php:43
+msgid "a marketing campaign tool"
+msgstr "Un outil de campagne marketing"
+
+#: restaurant_info_page.php:48
+msgid "You login is"
+msgstr "Votre identifiant est "
+
+#: restaurant_info_page.php:49
+msgid "Never received your password ? Set it here !"
+msgstr "Vous n'avez pas reçu votre mot de passe ? Définissez le ici !"
+
+#: restaurant_info_page.php:53
+msgid "Change password"
+msgstr "Changer mon mot de passe"
+
+#: widget.php:40 widget.php:166
+msgid "Widget Title"
+msgstr "Titre du Widget"
+
+#: widget.php:49 widget.php:176
+msgid "Widget Type"
+msgstr "Type du Widget"
+
+#: widget.php:53 widget.php:180
+msgid "Button"
+msgstr "Bouton"
+
+#~ msgid "I already have a key"
+#~ msgstr "Jai déja une clé"
+
+#~ msgid "Guestonline FAQ (FR-speaking friends only)"
+#~ msgstr "Guestonline FAQ"
