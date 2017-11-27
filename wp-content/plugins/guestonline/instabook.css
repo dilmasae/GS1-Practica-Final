@@ -1,0 +1,234 @@
+<style type="text/css">
+.form_style{
+  max-width: 800px;
+  padding: 20px 12px 10px 20px;
+  font: 13px Arial, Helvetica, sans-serif;
+}
+.form_style label{
+  display: block;
+  margin: 0px 0px 15px 0px;
+}
+.form_style label > span{
+  width: 150px;
+  font-weight: bold;
+  float: left;
+  padding-top: 8px;
+  padding-right: 5px;
+}
+.form_style span.required{
+  color:red;
+}
+.div_border{
+  margin: 10px 10px 10px -5px;
+  padding: 10px 10px 10px 10px;
+  border:1px solid grey;
+  min-width:900px;
+  width:95%;
+}
+.form_style input[type='text'], input[type='email'], input[type='number']{
+  width:250px;
+}
+#countries, #time_zone{
+  width:250px;
+}
+#password_update input{
+  margin-right: 10px ;
+}
+#create_account_form .errors{
+  margin-left: 10px;
+  color:red;
+}
+#referal_header_div img{
+  float: left;
+  margin-right: 100px;
+}
+
+#referal_header_div h2{
+  margin-top: 40px;
+}
+#referal_body_div .button {
+    height: 60px;
+    width: 200px;
+    font-weight: bold;
+    font-size: 1.2em;
+    position: absolute;
+    left: 300px;
+}
+#referal_body_div{
+  height: 200px;
+}
+#referal_link_div{
+   height: 30px;
+   text-align: center;
+}
+#referal_link_div .button{
+
+  font-weight:bold;
+  font-size:1.2em;
+  width: 400px;
+  margin: auto;
+}
+
+
+#welcome_div h2{
+  margin-top: 40px;
+}
+#welcome_div, #referal_header_div{
+  height: 140px;
+  min-width: 800px;
+  width: 95%;
+}
+#form_submit_div{
+  text-align: center;
+  height:70px;
+}
+#form_resto_div .field, #form_user_div .field {
+  position:absolute;
+  left:400Px;
+}
+#form_user_div .field {
+  position:absolute;
+  left:400Px;
+  width:400px;
+}
+#form_resto_div table{
+  width:100%;
+  border-collapse: collapse;
+  border-style: hidden;
+  border-bottom:1px solid grey;
+}
+#form_resto_div td{
+  text-align: center;
+  width:10%;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+#form_resto_div tr{
+  height:30px;
+}
+
+#time_zone, #countries{
+  width:400px;
+}
+
+#form_resto_div .phone{
+  width:400px;
+}
+#form_resto_div .capacity{
+  width:400px;
+}
+#form_submit_div .pull_right{
+  right: 60px;
+  text-align: right;
+  font-size:0.9em;
+  overflow: hidden;
+  float: right;
+
+}
+#form_submit_div .pull_left{
+    padding-top: 10px;
+    text-align: left;
+    font-size:0.9em;
+    float: left;
+}
+
+#form_submit_div input{
+  /*height:60px;
+  width:200px;
+  font-weight:bold;
+  font-size:1.2em;
+  position:absolute;
+  left:300Px;*/
+}
+#form_submit_div .button{
+  height:60px;
+  width:200px;
+  font-weight:bold;
+  font-size:1.2em;
+}
+
+#form_connect_div{
+  text-align: center;
+  height:220px;
+}
+#form_connect_div .pull_right{
+  left: 530px;
+  position: absolute;
+  text-align: right;
+}
+#form_connect_div .pull_left{
+  left: 10px;
+    position: absolute;
+    padding-top: 60px;
+    text-align: left;
+}
+.connect_pull_left{
+  text-align: left;
+  margin-top: 90px;
+}
+#form_connect_div .button{
+  height:60px;
+  font-weight:bold;
+  font-size:1.2em;
+  position:absolute;
+  left:10px;
+  padding-top: 14px;
+}
+#form_connect_div ul{
+  left: 30px;
+  position: absolute;
+  text-align: left;
+  list-style-type:initial;
+  margin-top: -10px;
+}
+#form_connect_div li{
+  margin-bottom: 0px;
+}
+
+
+
+#dashbord_div{
+  height: 220px;
+  width: 800px;
+}
+#dashbord_div img{
+  float: left;
+  margin-right: 100px;
+}
+
+#dashbord_div h2{
+  margin-top: 40px;
+}
+
+#wait_div{
+  height: 100px;
+  margin: 10px 10px 10px -5px;
+  padding: 10px 10px 10px 10px;
+  border:1px solid grey;
+  width:800px;
+  text-align: center;
+  margin-top: 40px;
+}
+.wait_span{
+  font-size: 2em;
+}
+
+.errors {
+  text-align:center;
+  color:red
+}
+
+.logo {
+  float: left;
+}
+
+.header_content {
+  text-align: right;
+  overflow-x: hidden;
+}
+.clearfix {
+  clear: both;
+}
+
+</style>
+
